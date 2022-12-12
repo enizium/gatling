@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GetAllEmployee",
+  "simulationId": "getallemployee",
+  "start": 1670810455061,
+  "description": "e",
+  "scenarios": ["get all employee details"],
+  "assertions": [
+
+  ]
+}

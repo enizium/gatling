@@ -1,0 +1,41 @@
+RUN	simulations.AddEmployee	addemployee	1670810265700	yes	3.5.1
+USER	Add and Delete employee scenario	START	1670810267408
+USER	Add and Delete employee scenario	START	1670810267408
+USER	Add and Delete employee scenario	START	1670810267408
+USER	Add and Delete employee scenario	START	1670810267408
+USER	Add and Delete employee scenario	START	1670810267408
+USER	Add and Delete employee scenario	START	1670810267408
+USER	Add and Delete employee scenario	START	1670810267408
+USER	Add and Delete employee scenario	START	1670810267408
+USER	Add and Delete employee scenario	START	1670810267408
+USER	Add and Delete employee scenario	START	1670810267408
+REQUEST		Add employee request	1670810267439	1670810271783	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add employee request	1670810267439	1670810271784	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add employee request	1670810267439	1670810271783	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add employee request	1670810267439	1670810271783	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add employee request	1670810267439	1670810271783	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add employee request	1670810267439	1670810271783	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add employee request	1670810267439	1670810271783	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add employee request	1670810267439	1670810271783	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add employee request	1670810267439	1670810271783	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		Add employee request	1670810267439	1670810271783	KO	j.n.ConnectException: Connection refused: no further information
+ERROR	Delete employee request: Failed to build request: No attribute named 'empId' is defined 	1670810271799
+ERROR	Delete employee request: Failed to build request: No attribute named 'empId' is defined 	1670810271799
+ERROR	Delete employee request: Failed to build request: No attribute named 'empId' is defined 	1670810271799
+ERROR	Delete employee request: Failed to build request: No attribute named 'empId' is defined 	1670810271799
+ERROR	Delete employee request: Failed to build request: No attribute named 'empId' is defined 	1670810271799
+ERROR	Delete employee request: Failed to build request: No attribute named 'empId' is defined 	1670810271799
+ERROR	Delete employee request: Failed to build request: No attribute named 'empId' is defined 	1670810271799
+ERROR	Delete employee request: Failed to build request: No attribute named 'empId' is defined 	1670810271799
+ERROR	Delete employee request: Failed to build request: No attribute named 'empId' is defined 	1670810271799
+ERROR	Delete employee request: Failed to build request: No attribute named 'empId' is defined 	1670810271799
+USER	Add and Delete employee scenario	END	1670810271801
+USER	Add and Delete employee scenario	END	1670810271801
+USER	Add and Delete employee scenario	END	1670810271801
+USER	Add and Delete employee scenario	END	1670810271801
+USER	Add and Delete employee scenario	END	1670810271801
+USER	Add and Delete employee scenario	END	1670810271801
+USER	Add and Delete employee scenario	END	1670810271801
+USER	Add and Delete employee scenario	END	1670810271801
+USER	Add and Delete employee scenario	END	1670810271801
+USER	Add and Delete employee scenario	END	1670810271801

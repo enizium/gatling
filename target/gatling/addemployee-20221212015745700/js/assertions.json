@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.AddEmployee",
+  "simulationId": "addemployee",
+  "start": 1670810265700,
+  "description": "yes",
+  "scenarios": ["Add and Delete employee scenario"],
+  "assertions": [
+
+  ]
+}

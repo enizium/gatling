@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.ApiGatlingSimulationTest",
+  "simulationId": "apigatlingsimulationtest",
+  "start": 1670774939703,
+  "description": "employee api",
+  "scenarios": ["get all employee details"],
+  "assertions": [
+
+  ]
+}

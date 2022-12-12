@@ -1,0 +1,4 @@
+RUN	simulations.AddEmployee	addemployee	1670776411905	api	3.5.1
+USER	Add employee scenario	START	1670776413207
+REQUEST		Add employee request	1670776413226	1670776413527	OK	 
+USER	Add employee scenario	END	1670776413537

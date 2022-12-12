@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.ApiGatlingSimulationTest",
+  "simulationId": "apigatlingsimulationtest",
+  "start": 1670775099349,
+  "description": "test",
+  "scenarios": ["get all employee details"],
+  "assertions": [
+
+  ]
+}

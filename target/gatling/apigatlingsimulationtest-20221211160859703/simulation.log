@@ -1,0 +1,16 @@
+RUN	simulations.ApiGatlingSimulationTest	apigatlingsimulationtest	1670774939703	employee api	3.5.1
+USER	get all employee details	START	1670774941531
+USER	get all employee details	START	1670774941531
+USER	get all employee details	START	1670774941531
+USER	get all employee details	START	1670774941531
+USER	get all employee details	START	1670774941531
+REQUEST		get employee contact request	1670774941554	1670774941850	OK	 
+REQUEST		get employee contact request	1670774941554	1670774941850	OK	 
+REQUEST		get employee contact request	1670774941554	1670774941850	OK	 
+REQUEST		get employee contact request	1670774941554	1670774941850	OK	 
+REQUEST		get employee contact request	1670774941554	1670774941850	OK	 
+USER	get all employee details	END	1670774941865
+USER	get all employee details	END	1670774941865
+USER	get all employee details	END	1670774941865
+USER	get all employee details	END	1670774941865
+USER	get all employee details	END	1670774941865
